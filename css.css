@@ -1,0 +1,22 @@
+a{
+    color: rgb(231, 69, 69);
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(233, 159, 132);
+    padding: 15px 20px;
+}
+h1, h2{
+    font-family: cursive;
+    color: rgb(88, 15, 30);
+    
+}
+img{
+    display: inline;
+    width: 400px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+}
